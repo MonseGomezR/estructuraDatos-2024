@@ -1,0 +1,3 @@
+C:/Users/mgome/CLionProjects/Solitario2/cmake-build-debug/CMakeFiles/Solitario2.dir
+C:/Users/mgome/CLionProjects/Solitario2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mgome/CLionProjects/Solitario2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
