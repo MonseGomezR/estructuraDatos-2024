@@ -1,0 +1,3 @@
+C:/Users/mgome/CLionProjects/GestorContactos/cmake-build-debug/CMakeFiles/GestorContactos.dir
+C:/Users/mgome/CLionProjects/GestorContactos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mgome/CLionProjects/GestorContactos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
